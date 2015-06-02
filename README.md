@@ -25,7 +25,6 @@
 - [Spring's PetStore](https://src.springsource.org/svn/spring-samples/jpetstore/trunk/org.springframework.samples.jpetstore/)
 - [appfuse](https://github.com/appfuse/appfuse)
 - [OpenKM Document Management System](http://sourceforge.net/projects/openkm/)
-- [Magnolia CMS](http://sourceforge.net/projects/magnolia/)
 - [WaveMaker](http://sourceforge.net/projects/wavemakervisual/)
 
 
