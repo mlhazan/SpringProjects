@@ -1,6 +1,6 @@
 # SpringProjects
 
-> The projects list which based on Spring framework.
+> The project list which based on Spring framework.
 
 
 ## Project List
